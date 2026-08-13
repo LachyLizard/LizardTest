@@ -1,0 +1,24 @@
+body{
+    background-size: 20px contain;
+    background-color: rgb(18, 106, 92);
+}
+h1 {
+    text-align: center;
+    color:black;
+    font-family: "Turret Road", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 350%;
+}
+p {
+    font-family: Verdana;
+    color:black;
+    text-align: center;
+}
+section {
+    width:50%;
+    background-color: aquamarine;
+    margin: auto;
+    padding: 20px;
+    border-radius:10px;
+}
